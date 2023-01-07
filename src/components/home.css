@@ -1,0 +1,10 @@
+.bar {
+  background-color: turquoise;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.container {
+  position: relative;
+  width: auto;
+}
