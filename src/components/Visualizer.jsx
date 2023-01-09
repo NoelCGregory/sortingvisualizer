@@ -153,7 +153,7 @@ class Visualizer extends Component {
           <button onClick={() => this.mergeSort()} style={{ margin: "2px" }}>
             Merge Sort
           </button>
-          <p style={{ margin: "5px" }}>Bar Width: </p>
+          <p style={{ margin: "7px" }}>Bar Width: </p>
           <input
             type="range"
             onChange={(e) => this.changeBarWidth(e.target.value)}
